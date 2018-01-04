@@ -1,0 +1,87 @@
+==================================================================
+https://keybase.io/dajo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lachowsky.com
+  * I am dajo (https://keybase.io/dajo) on keybase.
+  * I have a public key with fingerprint D3FA 217C E38B 7E3E 91A2  DEB7 EDEE B8D5 53B4 8D2E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015eaacf64ef9f072c256c2f695ab0112163b33b907b992df1b867115d34a4668a0a",
+      "fingerprint": "d3fa217ce38b7e3e91a2deb7edeeb8d553b48d2e",
+      "host": "keybase.io",
+      "key_id": "edeeb8d553b48d2e",
+      "kid": "01015eaacf64ef9f072c256c2f695ab0112163b33b907b992df1b867115d34a4668a0a",
+      "uid": "710cd67497186ca68aef27fae615dc00",
+      "username": "dajo"
+    },
+    "merkle_root": {
+      "ctime": 1515028028,
+      "hash_meta": "c6649b670553f34f882633c30767fa109b24e4f1e1ee90544ea939f79cbaa92d",
+      "seqno": 1884711
+    },
+    "revoke": {
+      "sig_ids": [
+        "3fd7bc812513fb1e5cffeb2053fca5fe68afc6838496d991513a853cc110a2500f"
+      ]
+    },
+    "service": {
+      "hostname": "lachowsky.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1515028080,
+  "expire_in": 157680000,
+  "prev": "5948ea91f49bd94ca2121b1fcaa783fe172f66a63cb1a1867d0e6b665585f575",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMPQAnicrVN/TFVVHH/80oAhKhEsmm13LLD4cc+995x772OAlqKOzNClCOLr3HvP
+fVwfvPt49/GACH/QTFRoiU1bLvP3RIpA3cBQHOiWrj/ECCMtc2IMygydY2aGncts
+a60/u7vb/fH9fj+/zjnnY8IcUSG/3ukaXHGyKSPkqz6r0lG0dL2vllFMrYZx1jIe
+MvUgZRqxAi6PoTFOhgUsgARjVUcC0WWdFTmVg0jldCRDrLAAcADxCs8rMisqssxp
+OlAkJAIANV7AAkISZjGTxuiG1038Pr/hDVBYjdcxB0SV8JIiEp7IAHMaoa8aIYqk
+QcgrgqRxhA6WmpY9QcUp2CIZhkn/0Q/XlLz/6P+fdVdOwYmAVTUkCrIIJKRiWiQ6
+J+qYINqvsqzdaBG/F5cT2x1eZzJ1aUw58XvKiMtvmgE7WDVg2GUAAWQ5id7UHLZK
+XeUkgOmUipAgK0hkqRudF3RJ4hDPqzwrIsoEWFnhBCLogABCZBYKAsEyL+uirCoY
+UwNUg0UqvCZlkCSBOqEK/CRoeohNbhluGpnFOIsZXtdERZUABwGvK4BAVdeJwrGU
+VsVQJ9SdriKJlwQZabJM9fJYgryqAsBiDrKszpTU2WT+oKFOgdtr9MR7GVZLzSrL
+U5OhmuVUks9vBkzVLKOl0kDAZzntYAI1Pru3iiiuJyguxfBqdIvQiSDxW4bppTZo
+578yk9g0hlT7DD9xGXYHFJHE0svmIUEKCWVBorkAnUapyYJKdxkHFECNYVHidQJE
+ugMQRryqAEzXUtRYghSEIJSgDkX4jxAR1YndFJNG58WBSj9h6vp614Q7QqIc0yJC
+7bPjiIqc+feJyntnpmNrw63XPcjZndUEN+WG1mXGDlxreDdk35JX7kYX1a2Mujfa
+mbb6h9jcdm5dcu1b6yNy/iypPxX7+HZa7qE9VZfTmx8yEjfWey6Y3SnNzsmoSj0Z
+1lE60aldgGs3unviR75LHQt7Jiln1cy2vSOO6ntJLV35SR8kLuofbDr7YMGbB+9f
+f1H6pONEYX5Ndx0yn9oQe8NTwcWfOl7SVZjY371iUe63l3M3dHyd33d6JL5157LK
+nQv3vHD11p1Hc37Jj242J6++8Sh7d8Li86nn5m77/qb5xdMfBj37Gy51tIxGRuwY
+7nsc2hgyJ1t4fuM0IXqVMZ7QeuP4poLUI0Ojzudm77v4YChOmf8p99Ous2eGnQnu
+tO7D2323ixzTm+H+3Y1xq9f2vF0y2eNOqZ8V9vPiyLvzFrSxbt+ZrWQy79ld1yuu
+TJc/zmtpMxqLR7N9yc7Df2z2WReqmkczl0xeWRO/9X330Pr0xLJNSwc2OvmsA/Wt
+M5Z92bDlxx5wcdexz1zj1TMywieOFCx6L/iSeC0m5dIWkjV/4eZt7kw1T6w9eH95
+Vm/jQPGp+EFFHtrW1T7St+PlYPXJaYl7Gx5mnlYKJprH6pe8Op5Rvfz3mHSmvTA5
+eeVv0PFadFHZAdfR+VxlRfNQaGuPe2e/r4X7/FbKtVnfhMaEB8s7tdC5Ob55H0Uc
+Gq4eOXrzRFw5P/74WONf3wb1uw==
+=zWXM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dajo
+
+==================================================================
